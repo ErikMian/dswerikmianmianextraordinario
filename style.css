@@ -1,0 +1,25 @@
+span {
+    color: #006DFC;
+    
+  }
+  input[type="text"] {
+       background: #006DFC;
+      color: white;
+      text-align: center;
+     
+     
+    }
+    input[type="submit"] {
+       background: #006DFC ;
+      color: white;
+      text-align: center;
+     
+     
+    }
+    h1,h2,h4{
+      color: #006DFC;
+  }
+  img{
+      width: 50%;
+      height: 40%;
+  }
